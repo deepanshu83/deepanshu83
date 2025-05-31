@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **deepanshu83/deepanshu83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi there, I'm Deepanshu Jangid
+
+🎓 I'm a B.Tech 1st Year Student at 
+Bk Birla institute of engineering and technology, pilani 
+
+💻 Passionate about building projects and continuously learning new technologies
+
+
+#🚀 Tech Stack
+
+Html , Css , JavaScript 
+doing DSA in C++ 
+and learning Java 
+
+📫 Connect with Me
+
+- [LinkedIn]
+
+
+I believe in **“Learn by Doing”** — every line of code is a step closer to my dream!
+
+
