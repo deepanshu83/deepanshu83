@@ -31,6 +31,9 @@ and learning Java
 - [LinkedIn]
 https://www.linkedin.com/in/deepanshujangid83
 
+- [Leetcode]
+https://leetcode.com/u/deepanshu123_123
+
 ⚡ Fun fact: I believe in **“Learn by Doing”** — every line of code is a step closer to my dream!
 
 
