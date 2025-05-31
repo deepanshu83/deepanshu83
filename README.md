@@ -29,6 +29,7 @@ and learning Java
 📫 Connect with Me
 
 - [LinkedIn]
+https://www.linkedin.com/in/deepanshujangid83
 
 
 I believe in **“Learn by Doing”** — every line of code is a step closer to my dream!
