@@ -20,7 +20,7 @@ Bk Birla institute of engineering and technology, pilani
 💻 Passionate about building projects and continuously learning new technologies
 
 
-#🚀 Tech Stack
+🚀 Tech Stack
 
 Html , Css , JavaScript 
 doing DSA in C++ 
