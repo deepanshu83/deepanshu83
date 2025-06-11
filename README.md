@@ -24,15 +24,11 @@ Bk Birla institute of engineering and technology, pilani
 
 Html , Css , JavaScript 
 doing DSA in C++ 
-and learning Java 
 
 📫 Connect with Me
 
 - [LinkedIn]
 https://www.linkedin.com/in/deepanshujangid83
-
-- [Leetcode]
-https://leetcode.com/u/deepanshu123_123
 
 ⚡ Fun fact: I believe in **“Learn by Doing”** — every line of code is a step closer to my dream!
 
