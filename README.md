@@ -23,7 +23,6 @@ Bk Birla institute of engineering and technology, pilani
 🚀 Tech Stack
 
 Html , Css , JavaScript 
-doing DSA in C++ 
 
 📫 Connect with Me
 
