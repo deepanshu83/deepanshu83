@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 👋 Hi there, I'm Deepanshu Jangid
 
-🎓 I'm a B.Tech 2nd Year Student at 
-Bk Birla institute of engineering and technology, pilani 
+🎓 I'm a B.Tech computer science Student at 
+Bk Birla institute of engineering and technology, Pilani 
 
 💻 Passionate about building projects and continuously learning new technologies
+
 
 
 🚀 Tech Stack
@@ -27,15 +28,18 @@ Bk Birla institute of engineering and technology, pilani
 - JavaScript
 - Python
 
+
 📫 Connect with Me
 
 E-mail : dd893566039@gmail.com
 
 LinkedIn : https://www.linkedin.com/in/deepanshujangid83
 
+
 ⚡ Fun fact
 
  I believe in "Learn by Doing" — every small project, every line of code brings me closer to mastering my craft.
+ 
 Curiosity + Consistency = Growth 🚀
 
 
