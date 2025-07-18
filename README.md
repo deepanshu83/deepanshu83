@@ -22,13 +22,20 @@ Bk Birla institute of engineering and technology, pilani
 
 🚀 Tech Stack
 
-Html , Css , JavaScript 
+- Html 
+- Css 
+- JavaScript
+- Python
+- C
 
 📫 Connect with Me
 
-- [LinkedIn]
-https://www.linkedin.com/in/deepanshujangid83
+E-mail : dd893566039@gmail.com
+LinkedIn : https://www.linkedin.com/in/deepanshujangid83
 
-⚡ Fun fact: I believe in **“Learn by Doing”** — every line of code is a step closer to my dream!
+⚡ Fun fact
+
+ I believe in "Learn by Doing" — every small project, every line of code brings me closer to mastering my craft.
+Curiosity + Consistency = Growth 🚀
 
 
