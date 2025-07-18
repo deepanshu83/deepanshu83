@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 👋 Hi there, I'm Deepanshu Jangid
 
-🎓 I'm a B.Tech 1st Year Student at 
+🎓 I'm a B.Tech 2nd Year Student at 
 Bk Birla institute of engineering and technology, pilani 
 
 💻 Passionate about building projects and continuously learning new technologies
