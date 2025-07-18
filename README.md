@@ -26,11 +26,11 @@ Bk Birla institute of engineering and technology, pilani
 - Css 
 - JavaScript
 - Python
-- C
 
 📫 Connect with Me
 
 E-mail : dd893566039@gmail.com
+
 LinkedIn : https://www.linkedin.com/in/deepanshujangid83
 
 ⚡ Fun fact
