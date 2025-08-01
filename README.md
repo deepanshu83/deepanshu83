@@ -27,6 +27,8 @@ Bk Birla institute of engineering and technology, Pilani
 - Css 
 - JavaScript
 - Python
+- React.js
+- TailwindCss
 
 
 📫 Connect with Me
