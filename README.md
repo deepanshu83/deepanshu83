@@ -29,6 +29,9 @@ Bk Birla institute of engineering and technology, Pilani
 - Python
 - React.js
 - TailwindCss
+- Node.js
+- Express.js
+- MongoDb
 
 
 📫 Connect with Me
