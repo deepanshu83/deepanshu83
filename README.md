@@ -20,7 +20,7 @@ Bk Birla institute of engineering and technology, Pilani
 💻 Passionate about building projects and continuously learning new technologies
 
 
-I am a MERN STACK Developer 
+I am a mern stack Developer 
 
 🚀 Tech Stack
 
