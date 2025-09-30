@@ -24,15 +24,10 @@ I Am a Mern Stack Developer
 
 🚀 Tech Stack
 
-- Html 
-- Css 
-- JavaScript
-- Python
-- React.js
-- TailwindCss
-- Node.js
-- Express.js
-- MongoDb
+- Html || Css || JavaScript
+- Python || c || cpp
+- React.js || TailwindCss
+- Node.js || Express.js ||  MongoDb
 
 
 📫 Connect with Me
