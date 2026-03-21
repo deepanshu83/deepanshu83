@@ -28,6 +28,7 @@ I Am a Mern Stack Developer
 - Python || c || cpp
 - React.js || TailwindCss
 - Node.js || Express.js ||  MongoDb
+- nextjs || reactnative 
 
 
 📫 Connect with Me
