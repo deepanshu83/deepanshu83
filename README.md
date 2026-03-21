@@ -1,4 +1,4 @@
-<!--
+ <!--
 **deepanshu83/deepanshu83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,11 +24,11 @@ I Am a Mern Stack Developer
 
 🚀 Tech Stack
 
-- Html || Css || JavaScript
-- Python || c || cpp
+- Html     || Css         || JavaScript
+- Python   || c           || cpp
 - React.js || TailwindCss
-- Node.js || Express.js ||  MongoDb
-- nextjs || reactnative 
+- Node.js  || Express.js  ||  MongoDb
+- nextjs   || reactnative 
 
 
 📫 Connect with Me
