@@ -35,7 +35,13 @@ I Am a Mern Stack Developer
 
 E-mail : dd893566039@gmail.com
 
-LinkedIn : https://www.linkedin.com/in/deepanshujangid83
+LinkedIn : https://www.linkedin.com/in/deepanshujangid83 
+
+leetcode : https://leetcode.com/u/deepanshu123_123/
+
+codeforces : https://codeforces.com/profile/deepanshu_jangid
+
+X(twitter) : https://x.com/Deepanshu_212
 
 
 ⚡ Fun fact
