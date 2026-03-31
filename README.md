@@ -25,7 +25,6 @@
 
 ## 🧠 Developer Mindset
 
-```js
 const deepanshu = {
   code: ["JavaScript", "Python", "C++"],
   askMeAbout: ["web dev", "animations", "UI/UX"],
@@ -175,4 +174,3 @@ Mine feel.
 <p align="center">
   ⭐️ From Deepanshu Jangid | Built with passion & precision
 </p>
-```
