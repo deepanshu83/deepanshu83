@@ -1,3 +1,4 @@
+````md
 <!-- ===================== HEADER / HERO ===================== -->
 
 <h1 align="center">Hey 👋, I'm Deepanshu Jangid</h1>
@@ -33,116 +34,104 @@ const deepanshu = {
   focus: ["Full Stack", "Creative Coding"],
   currentMood: "Turning ideas into experiences ✨",
 };
-
+````
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-🚀 Languages
+### 🚀 Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
-</p>🎨 Frontend
+</p>
+
+### 🎨 Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>⚙️ Backend
+</p>
+
+### ⚙️ Backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>🗄️ Database
+</p>
+
+### 🗄️ Database
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>📱 Mobile Development
+</p>
+
+### 📱 Mobile Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
+
 ---
 
-🎬 Animation Stack
+## 🎬 Animation Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/GSAP-0A0A0A?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
   <img src="https://img.shields.io/badge/ScrollTrigger-111111?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
   <img src="https://img.shields.io/badge/Framer_Motion-0A0A0A?style=for-the-badge&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lottie-0A0A0A?style=for-the-badge&logo=airbnb&logoColor=FF5A5F"/>
-</p>✨ I specialize in creating buttery-smooth UI interactions & scroll-based storytelling experiences
+</p>
 
-
----
-
-🚧 Currently Working On
-
-🔥 Advanced Next.js Full Stack Projects
-
-🎬 High-performance Animation Systems (GSAP + Framer Motion)
-
-📱 Learning React Native Apps
-
-🧠 Improving DSA & Problem Solving
-
-
+✨ I specialize in creating buttery-smooth UI interactions & scroll-based storytelling experiences
 
 ---
 
-🎯 Goals
+## 🚧 Currently Working On
 
-🚀 Become a Top 1% Full Stack Developer
-
-🎨 Master Creative Development & Motion UI
-
-📱 Build Cross-platform production apps
-
-💼 Land impactful internships / opportunities
-
-🌍 Contribute to Open Source
-
-
+* 🔥 Advanced Next.js Full Stack Projects
+* 🎬 High-performance Animation Systems (GSAP + Framer Motion)
+* 📱 Learning React Native Apps
+* 🧠 Improving DSA & Problem Solving
 
 ---
 
-🌟 Featured Projects
+## 🎯 Goals
+
+* 🚀 Become a Top 1% Full Stack Developer
+* 🎨 Master Creative Development & Motion UI
+* 📱 Build Cross-platform production apps
+* 💼 Land impactful internships / opportunities
+* 🌍 Contribute to Open Source
+
+---
+
+## 🌟 Featured Projects
 
 > ⚡ (Replace with your real repos later)
 
-
-
-🔹 Portfolio Website
-
+🔹 **Portfolio Website**
 Modern UI + Animations
-
 Built with Next.js + GSAP
 
-
-🔹 Full Stack App
-
+🔹 **Full Stack App**
 MERN Stack Project
-
 Authentication + API + Dashboard
 
-
-🔹 Animation Playground
-
+🔹 **Animation Playground**
 Creative coding experiments
-
 ScrollTrigger + Framer Motion
-
-
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepanshu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
 ---
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:dd893566039@gmail.com">
@@ -161,17 +150,17 @@ ScrollTrigger + Framer Motion
     <img src="https://img.shields.io/badge/Twitter_X-1a1b27?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
+
 ---
 
-⚡ Fun Fact
+## ⚡ Fun Fact
 
 💡 I don’t just build apps…
 I build experiences that feel alive ✨
 
-
 ---
 
-🧩 Creative Edge (What Makes Me Different)
+## 🧩 Creative Edge (What Makes Me Different)
 
 Most developers build interfaces.
 I craft interactions.
@@ -179,14 +168,15 @@ I craft interactions.
 Most apps function.
 Mine feel.
 
-Code + Motion + Design = Experience 🚀
-
+**Code + Motion + Design = Experience 🚀**
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer"/>
-</p><p align="center">
+</p>
+
+<p align="center">
   ⭐️ From Deepanshu Jangid | Built with passion & precision
 </p>
 ```
