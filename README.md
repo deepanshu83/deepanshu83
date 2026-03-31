@@ -51,10 +51,13 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database
-
+### 🗄️ Database & Backend Services
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 </p>
 
 ### 📱 Mobile Development
