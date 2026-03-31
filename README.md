@@ -99,19 +99,33 @@
 
 ## 🌟 Featured Projects
 
-> ⚡ (Replace with your real repos later)
+### 🔹 HalluciScan
+A **Next.js full stack web app + browser extension** that detects hallucinations in LLM responses.  
+It analyzes outputs, verifies facts from the internet, and provides reliable sources.
 
-🔹 **Portfolio Website**
-Modern UI + Animations
-Built with Next.js + GSAP
+---
 
-🔹 **Full Stack App**
-MERN Stack Project
-Authentication + API + Dashboard
+### 🔹 WakeUpIdiot 😴⏰
+A fun **React Native alarm app** with meme-based wake-up system.  
+Forces users to interact before dismissing alarms 😂
 
-🔹 **Animation Playground**
-Creative coding experiments
-ScrollTrigger + Framer Motion
+---
+
+### 🔹 UrbanX 👕
+A **full stack clothing web app** with admin panel.  
+Includes product management, authentication, and modern UI.
+
+---
+
+### 🔹 AQI Tracker 🌫️
+An **IoT + backend project** using sensors to detect air quality (AQI).  
+Displays real-time data on a web dashboard.
+
+---
+
+### 🔹 SquadSync 🤝
+A **community-based platform** where I share extensions, roadmaps, and project ideas.  
+Focused on helping developers grow together 🚀
 
 ---
 
