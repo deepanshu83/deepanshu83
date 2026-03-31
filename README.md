@@ -1,66 +1,77 @@
- <!--
-**deepanshu83/deepanshu83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Deepanshu Jangid</h1>
+<h3 align="center">🚀 MERN Stack Developer | Next.js | Animation Lover</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+Enthusiast;GSAP+Animations+Lover;Always+Learning+New+Things🚀" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-👋 Hi there, I'm Deepanshu Jangid
+---
 
-🎓 I'm a B.Tech computer science Student at 
-Bk Birla institute of engineering and technology, Pilani 
+## 🚀 About Me  
+💻 B.Tech CSE Student @ B K Birla Institute, Pilani  
+🔥 Passionate about building real-world projects  
+⚡ Believe in **Learn by Doing**  
 
-💻 Passionate about building projects and continuously learning new technologies
+---
 
+## 🛠️ Tech Stack  
 
-I Am a Mern Stack Developer 
+### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
 
-🚀 Tech Stack
+### ⚙️ Frontend  
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwind-css)
 
-- Html     || Css || JavaScript
-- Python   || c || cpp
-- React.js || TailwindCss
-- Node.js  || Express.js ||  MongoDb
-- nextjs   || reactnative 
+### 🔧 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
 
+### 🗄️ Database  
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 
-📫 Connect with Me
+---
 
-E-mail : dd893566039@gmail.com
+## 📊 GitHub Stats  
 
-LinkedIn : https://www.linkedin.com/in/deepanshujangid83 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-leetcode : https://leetcode.com/u/deepanshu123_123/
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-codeforces : https://codeforces.com/profile/deepanshu_jangid
+---
 
-X(twitter) : https://x.com/Deepanshu_212
+## 🌐 Connect With Me  
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepanshujangid83"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:dd893566039@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://leetcode.com/u/deepanshu123_123/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://codeforces.com/profile/deepanshu_jangid"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"></a>
+  <a href="https://x.com/Deepanshu_212"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"></a>
+</p>
 
-⚡ Fun fact
+---
 
- I believe in "Learn by Doing" — every small project, every line of code brings me closer to mastering my craft.
- 
-Curiosity + Consistency = Growth 🚀
+## ⚡ Fun Fact  
 
-![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Frontend+Developer;Next.js+Developer;GSAP+Lover)
+💡 *"Curiosity + Consistency = Growth 🚀"*  
 
+---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+## 🎯 Goals  
 
+- 🔥 Become Full Stack Pro  
+- ⚡ Master Animations (GSAP + Three.js)  
+- 🚀 Build Unique Projects  
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical) 
+---
 
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
-
- ![Project Demo](your-gif-link.gif)
+⭐️ From Deepanshu with ❤️
