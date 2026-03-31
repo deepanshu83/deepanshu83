@@ -25,14 +25,11 @@
 
 ## 🧠 Developer Mindset
 
-```js
-const deepanshu = {
-  code: ["JavaScript", "Python", "C++"],
-  askMeAbout: ["web dev", "animations", "UI/UX"],
-  philosophy: "Learn by Doing 🚀",
-  focus: ["Full Stack", "Creative Coding"],
-  currentMood: "Turning ideas into experiences ✨",
-};
+- 💻 Code in **JavaScript, Python, C++**
+- 🎯 Passionate about **Web Development, Animations & UI/UX**
+- 🚀 Philosophy: **Learn by Doing**
+- 🌐 Focused on **Full Stack & Creative Coding**
+- ✨ Current Mood: *Turning ideas into real experiences*
 
 ## 🛠️ Tech Stack
 
@@ -121,8 +118,8 @@ ScrollTrigger + Framer Motion
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu83&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu83&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
