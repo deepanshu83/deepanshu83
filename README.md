@@ -1,103 +1,192 @@
-<h1 align="center">Hi 👋, I'm Deepanshu Jangid</h1>
-<h3 align="center">🚀 MERN Stack Developer | Next.js | Animation Enthusiast</h3>
+<!-- ===================== HEADER / HERO ===================== -->
+
+<h1 align="center">Hey 👋, I'm Deepanshu Jangid</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+Developer;GSAP+%7C+Framer+Motion+%7C+Lottie;Building+Creative+Web+Experiences🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Next.js+Specialist;React+Native+Explorer;UI%2FUX+%2B+Animation+Enthusiast;Building+Real-World+Experiences" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=header"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 🧑‍💻 About Me
 
-- 🎓 B.Tech CSE Student @ B K Birla Institute, Pilani  
-- 💻 MERN Stack Developer  
-- 🎬 Passionate about animations & UI/UX  
-- ⚡ Believe in **Learn by Doing**  
+- 🎓 B.Tech Computer Science @ **B K Birla Institute of Engineering and Technology, Pilani**
+- 🚀 Passionate about building **real-world impactful projects**
+- 🎨 Love crafting **smooth animations + modern UI**
+- ⚡ Strong believer in **"Learn by Doing"**
+- 🌐 Focused on **Full Stack + Creative Development**
+- 📱 Exploring **React Native** for cross-platform apps
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧠 Developer Mindset
+
+```js
+const deepanshu = {
+  code: ["JavaScript", "Python", "C++"],
+  askMeAbout: ["web dev", "animations", "UI/UX"],
+  philosophy: "Learn by Doing 🚀",
+  focus: ["Full Stack", "Creative Coding"],
+  currentMood: "Turning ideas into experiences ✨",
+};
+
+
+---
+
+🛠️ Tech Stack
+
+🚀 Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,python,c,cpp,react,nextjs,tailwind,nodejs,express,mongodb" />
-
-</p>
-
----
-
-## 🎬 Animation Stack  
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
+</p>🎨 Frontend
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ScrollTrigger-88CE02?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Lottie-00C4CC?style=for-the-badge" />
-
-</p>
-
----
-
-## 🚀 Projects  
-
-🔹 **Portfolio Website**  
-➡️ Next.js + GSAP + Smooth animations  
-
-🔹 **MERN Stack App**  
-➡️ Full stack app with authentication  
-
-🔹 **Animation Showcase**  
-➡️ GSAP + ScrollTrigger + Lottie  
-
----
-
-## 📊 GitHub Stats  
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>⚙️ Backend
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>🗄️ Database
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
+---
+
+🎬 Animation Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSAP-0A0A0A?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
+  <img src="https://img.shields.io/badge/ScrollTrigger-111111?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0A0A0A?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lottie-0A0A0A?style=for-the-badge&logo=airbnb&logoColor=FF5A5F"/>
+</p>✨ I specialize in creating buttery-smooth UI interactions & scroll-based storytelling experiences
+
 
 ---
 
-## 🌐 Connect  
+🚧 Currently Working On
 
-<p align="center">
+🔥 Advanced Next.js Full Stack Projects
 
-<a href="https://www.linkedin.com/in/deepanshujangid83">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+🎬 High-performance Animation Systems (GSAP + Framer Motion)
 
-<a href="mailto:dd893566039@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+📱 Learning React Native Apps
 
-<a href="https://leetcode.com/u/deepanshu123_123/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+🧠 Improving DSA & Problem Solving
 
-<a href="https://codeforces.com/profile/deepanshu_jangid">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/>
-</a>
 
-<a href="https://x.com/Deepanshu_212">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
-## ⚡ Fun  
+🎯 Goals
 
-💡 *Curiosity + Consistency = Growth 🚀*  
+🚀 Become a Top 1% Full Stack Developer
+
+🎨 Master Creative Development & Motion UI
+
+📱 Build Cross-platform production apps
+
+💼 Land impactful internships / opportunities
+
+🌍 Contribute to Open Source
+
+
+
+---
+
+🌟 Featured Projects
+
+> ⚡ (Replace with your real repos later)
+
+
+
+🔹 Portfolio Website
+
+Modern UI + Animations
+
+Built with Next.js + GSAP
+
+
+🔹 Full Stack App
+
+MERN Stack Project
+
+Authentication + API + Dashboard
+
+
+🔹 Animation Playground
+
+Creative coding experiments
+
+ScrollTrigger + Framer Motion
+
+
+
+---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+---
+
+🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:dd893566039@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+  <a href="https://www.linkedin.com/in/deepanshujangid83">
+    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://leetcode.com/u/deepanshu123_123/">
+    <img src="https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  </a>
+  <a href="https://codeforces.com/profile/deepanshu_jangid">
+    <img src="https://img.shields.io/badge/Codeforces-1a1b27?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/>
+  </a>
+  <a href="https://x.com/Deepanshu_212">
+    <img src="https://img.shields.io/badge/Twitter_X-1a1b27?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+---
+
+⚡ Fun Fact
+
+💡 I don’t just build apps…
+I build experiences that feel alive ✨
+
+
+---
+
+🧩 Creative Edge (What Makes Me Different)
+
+Most developers build interfaces.
+I craft interactions.
+
+Most apps function.
+Mine feel.
+
+Code + Motion + Design = Experience 🚀
+
 
 ---
 
 <p align="center">
-  ⭐️ From Deepanshu with ❤️
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer"/>
+</p><p align="center">
+  ⭐️ From Deepanshu Jangid | Built with passion & precision
 </p>
+```
