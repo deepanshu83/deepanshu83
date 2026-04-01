@@ -14,11 +14,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech Computer Science @ **B K Birla Institute of Engineering and Technology, Pilani**
-- 🚀 Passionate about building **real-world impactful projects**
-- 🎨 Love crafting **smooth animations + modern UI**
-- ⚡ Strong believer in **"Learn by Doing"**
-- 🌐 Focused on **Full Stack + Creative Development**
+- 🎓 B.Tech Computer Science @ **B K Birla Institute of Engineering and Technology, Pilani.**
+- 🚀 Passionate about building **real-world impactful projects.**
+- 🎨 Love crafting **smooth animations + modern UI.**
+- ⚡ Strong believer in **"Learn by Doing."**
+- 🌐 Focused on **Full Stack + Creative Development.**
 - 📱 Exploring **React Native** for cross-platform apps
 
 ---
