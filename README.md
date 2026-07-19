@@ -182,3 +182,211 @@ Currently learning and building:
 
 # 📌 Featured Projects
 
+## 🏡 AI House Price Prediction
+
+> End-to-end Machine Learning Web Application
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge"/>
+
+</p>
+
+Built an end-to-end Machine Learning application for predicting California house prices using **Linear Regression**.
+
+### Features
+
+- Data Cleaning
+- Data Preprocessing
+- Feature Engineering
+- Model Training
+- Model Evaluation
+- FastAPI REST API
+- Responsive Frontend
+- Cloud Deployment
+
+### Tech
+
+Python • FastAPI • Scikit-learn • HTML • CSS • JavaScript
+
+🌐 Live Demo
+
+https://house-price-prediction-sl72.onrender.com/
+
+---
+
+# 🤖 RAG Chatbot
+
+> Retrieval-Augmented Generation powered by Local LLMs
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-5B2EFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+
+</p>
+
+Built a Retrieval-Augmented Generation chatbot capable of answering questions from custom documents using semantic search and vector embeddings.
+
+### Features
+
+- Semantic Search
+
+- Vector Database
+
+- Local LLM
+
+- Context Retrieval
+
+- FastAPI Backend
+
+---
+
+# 📈 Stock Price Prediction
+
+> Machine Learning + FastAPI
+
+Built a web application capable of predicting stock prices using Machine Learning.
+
+### Features
+
+- Interactive Dashboard
+
+- ML Predictions
+
+- REST APIs
+
+- Responsive Frontend
+
+🌐 Live
+
+https://stock-project-mocha.vercel.app/
+
+---
+
+# 📊 Retail Sales Analytics Dashboard
+
+> SQL + PostgreSQL + Power BI
+
+Created an interactive dashboard to analyze retail sales data and generate business insights.
+
+### Features
+
+- KPI Dashboard
+
+- Category Analysis
+
+- Sales Trends
+
+- SQL Queries
+
+- Power BI Reports
+
+- Exploratory Data Analysis
+
+---
+
+# 🌐 HalluciScan
+
+> AI Hallucination Detection Platform
+
+Built a platform that verifies AI-generated responses using internet-based verification techniques.
+
+### Tech
+
+Next.js
+
+TypeScript
+
+Tailwind CSS
+
+Gemini API
+
+---
+
+# 📦 RepoVision
+
+> AI GitHub Repository Analyzer
+
+Analyzes GitHub repositories and provides insights using AI.
+
+### Features
+
+Repository Analysis
+
+GitHub API
+
+Responsive UI
+
+Developer Productivity
+
+---
+
+# 📱 WakeUpIdiot
+
+> React Native Alarm Application
+
+Math-based alarm application designed to prevent oversleeping.
+
+### Features
+
+Math Challenges
+
+Offline Alarm
+
+Modern UI
+
+React Native
+
+---
+
+# 🖥️ Custom x86 Bootloader
+
+> Low-Level Systems Programming
+
+Currently building a custom x86 bootloader using NASM Assembly.
+
+Learning
+
+- BIOS Interrupts
+
+- Memory Layout
+
+- Boot Process
+
+- x86 Architecture
+
+- Kernel Loading
+
+- Operating System Internals
+
+---
+
+# 📚 Currently Learning
+
+🧠 Machine Learning
+
+🤖 Deep Learning
+
+🐍 PyTorch
+
+📚 Data Structures & Algorithms
+
+🏗️ System Design
+
+⚙️ Linux Internals
+
+🖥️ Bootloader Development
+
+☁️ Cloud Deployment
