@@ -1,191 +1,184 @@
-<!-- ===================== HEADER / HERO ===================== -->
+<!-- ====================================================== -->
+<!--                    HEADER -->
+<!-- ====================================================== -->
 
 <h1 align="center">Hey 👋, I'm Deepanshu Jangid</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Next.js+Specialist;React+Native+Explorer;UI%2FUX+%2B+Animation+Enthusiast;Building+Real-World+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+%2F+Machine+Learning;Full+Stack+Developer;Building+AI-Powered+Products;FastAPI+%7C+Next.js+%7C+Python;Data+Analytics+%7C+System+Design;Low-Level+Systems+Explorer" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=header"/>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 B.Tech Computer Science @ **B K Birla Institute of Engineering and Technology, Pilani.**
-- 🚀 Passionate about building **real-world impactful projects.**
-- 🎨 Love crafting **smooth animations + modern UI.**
-- ⚡ Strong believer in **"Learn by Doing."**
-- 🌐 Focused on **Full Stack + Creative Development.**
-- 📱 Exploring **React Native** for cross-platform apps
-
----
-
-## 🧠 Developer Mindset
-
-- 💻 Code in **JavaScript, Python, C++**
-- 🎯 Passionate about **Web Development, Animations & UI/UX**
-- 🚀 Philosophy: **Learn by Doing**
-- 🌐 Focused on **Full Stack & Creative Coding**
-- ✨ Current Mood: *Turning ideas into real experiences*
-
-## 🛠️ Tech Stack
-
-### 🚀 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
-</p>
-
-### 🎨 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database & Backend Services
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=140&section=header"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
-</p>
 
-### 📱 Mobile Development
+<a href="https://github.com/deepanshu83">
+<img src="https://img.shields.io/github/followers/deepanshu83?style=for-the-badge&logo=github"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
+</a>
 
----
+<a href="https://www.linkedin.com/in/deepanshujangid83">
 
-## 🎬 Animation Stack
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GSAP-0A0A0A?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
-  <img src="https://img.shields.io/badge/ScrollTrigger-111111?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0A0A0A?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lottie-0A0A0A?style=for-the-badge&logo=airbnb&logoColor=FF5A5F"/>
-</p>
+</a>
 
-✨ I specialize in creating buttery-smooth UI interactions & scroll-based storytelling experiences
+<a href="https://x.com/Deepanshu_212">
 
----
+<img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x"/>
 
-## 🚧 Currently Working On
+</a>
 
-* 🔥 Advanced Next.js Full Stack Projects
-* 🎬 High-performance Animation Systems (GSAP + Framer Motion)
-* 📱 Learning React Native Apps
-* 🧠 Improving DSA & Problem Solving
+<a href="https://my-portfolio-eight-lime-95.vercel.app">
 
----
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge"/>
 
-## 🎯 Goals
+</a>
 
-* 🚀 Become a Top 1% Full Stack Developer
-* 🎨 Master Creative Development & Motion UI
-* 📱 Build Cross-platform production apps
-* 💼 Land impactful internships / opportunities
-* 🌍 Contribute to Open Source
-
----
-
-## 🌟 Featured Projects
-
-### 🔹 HalluciScan
-A **Next.js full stack web app + browser extension** that detects hallucinations in LLM responses.  
-It analyzes outputs, verifies facts from the internet, and provides reliable sources.
-
----
-
-### 🔹 WakeUpIdiot 😴⏰
-A fun **React Native alarm app** with meme-based wake-up system.  
-Forces users to interact before dismissing alarms 😂
-
----
-
-### 🔹 UrbanX 👕
-A **full stack clothing web app** with admin panel.  
-Includes product management, authentication, and modern UI.
-
----
-
-### 🔹 AQI Tracker 🌫️
-An **IoT + backend project** using sensors to detect air quality (AQI).  
-Displays real-time data on a web dashboard.
-
----
-
-### 🔹 SquadSync 🤝
-A **community-based platform** where I share extensions, roadmaps, and project ideas.  
-Focused on helping developers grow together 🚀
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu83&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu83&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 👨‍💻 About Me
+
+🎓 Computer Science undergraduate at **BK Birla Institute of Engineering & Technology, Pilani**
+
+🚀 I enjoy building software that combines **AI, Machine Learning, Full Stack Development and Data Analytics** into real-world products.
+
+Instead of only following tutorials, I prefer shipping complete applications—from training ML models to deploying production-ready web apps.
+
+Currently learning and building:
+
+- 🧠 Artificial Intelligence & Machine Learning
+- ⚡ FastAPI Backend Development
+- 🏗️ System Design
+- 📚 Data Structures & Algorithms
+- 🐧 Linux Internals
+- 💻 Custom x86 Bootloader Development
+
+---
+
+# 🚀 What I'm Working On
+
+- 🏡 AI House Price Prediction
+- 🤖 Retrieval Augmented Generation (RAG)
+- 📈 Stock Price Prediction
+- 🧠 Deep Learning
+- ⚙️ Custom Bootloader
+- 📚 DSA
+- 🏗️ System Design
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
 
 <p align="center">
-  <a href="mailto:dd893566039@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-  </a>
-  <a href="https://www.linkedin.com/in/deepanshujangid83">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="https://leetcode.com/u/deepanshu123_123/">
-    <img src="https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-  </a>
-  <a href="https://codeforces.com/profile/deepanshu_jangid">
-    <img src="https://img.shields.io/badge/Codeforces-1a1b27?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/>
-  </a>
-  <a href="https://x.com/Deepanshu_212">
-    <img src="https://img.shields.io/badge/Twitter_X-1a1b27?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css"/>
+
 </p>
 
 ---
 
-## ⚡ Fun Fact
-
-💡 I don’t just build apps…
-I build experiences that feel alive ✨
-
----
-
-## 🧩 Creative Edge (What Makes Me Different)
-
-Most developers build interfaces.
-I craft interactions.
-
-Most apps function.
-Mine feel.
-
-**Code + Motion + Design = Experience 🚀**
-
----
+## 🎨 Frontend
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer"/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase"/>
+
 </p>
 
 <p align="center">
-  ⭐️ From Deepanshu Jangid | Built with passion & precision
+
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase"/>
+
 </p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-5B2EFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📊 Data Analytics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+
+</p>
+
+---
+
+## 🧰 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
+
+<img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
