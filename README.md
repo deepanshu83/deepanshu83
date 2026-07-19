@@ -390,3 +390,166 @@ Learning
 🖥️ Bootloader Development
 
 ☁️ Cloud Deployment
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepanshu83&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu83&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu83&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=deepanshu83&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📅 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu83&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="mailto:deepanshu.jangid.83@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/deepanshujangid83">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://github.com/deepanshu83">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://x.com/Deepanshu_212">
+
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+
+</a>
+
+<a href="https://leetcode.com/u/deepanshu123_123/">
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
+<a href="https://my-portfolio-eight-lime-95.vercel.app">
+
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🤖 Build **10+ Production AI Applications**
+- ⚡ Master **FastAPI & Backend Engineering**
+- 🧠 Learn **Deep Learning & PyTorch**
+- 📚 Solve **300+ DSA Problems**
+- 🏗️ Master **System Design**
+- 🖥️ Build a **Custom Operating System**
+- 🚀 Contribute to Open Source
+- 💼 Land a **Software Engineering / AI Internship**
+
+---
+
+# ⚡ Engineering Philosophy
+
+> **"I don't build projects to fill my GitHub.**
+>
+> **I build software to learn how real systems work."**
+
+From **low-level bootloaders** to **AI-powered web applications**, I enjoy exploring every layer of software engineering.
+
+---
+
+# ☕ Outside Coding
+
+When I'm not coding you'll usually find me
+
+🎵 Producing music
+
+📖 Reading about AI
+
+🖥️ Exploring Linux
+
+🚀 Learning new technologies
+
+💡 Building ideas that solve real problems
+
+---
+
+# 🚀 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=deepanshu83&label=Profile+Views&color=2563EB&style=for-the-badge"/>
+
+</p>
+
+---
+
+# ⭐ Support
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+It motivates me to keep building better software and sharing my learning.
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=140&section=footer"/>
+
+</p>
+
+<h3 align="center">
+
+Building Today • Learning Forever 🚀
+
+</h3>
+
+<p align="center">
+
+Software Engineering • AI/ML • Full Stack • Data Analytics • Low-Level Systems
+
+</p>
